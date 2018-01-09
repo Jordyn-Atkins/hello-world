@@ -1,0 +1,3 @@
+[submodule "database_ELA-clean_data"]
+	path = database_ELA-clean_data
+	url = https://github.com/biogeochem/database_ELA-clean_data
